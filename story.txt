@@ -1,4 +1,6 @@
-This is a story that contains a character and setting s.
+This is a story about a deep and dark man named Joseph and a bunch of poor kids that are under control of Joseph.
+                                                                                 
+One day, Joseph made an assignment that is extremely hard and makes no sense to all the poor kids in ECE353. The assignment was about EABI compliant, and the only things Joseph told all the poor kids were some stupid caller-saved and callee-saved functions, but the assignment was intended to develop a complex function that could let the LEDs on Tiva Launch Pad light up for different patterns.
 
 
 
